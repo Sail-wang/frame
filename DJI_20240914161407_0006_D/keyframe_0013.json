@@ -1,0 +1,250 @@
+{
+  "version": "2.4.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "车",
+      "score": null,
+      "points": [
+        [
+          1974.7619047619046,
+          302.38095238095235
+        ],
+        [
+          1974.2989568068904,
+          318.2288334058168
+        ],
+        [
+          1952.352035256101,
+          317.58772041191924
+        ],
+        [
+          1952.8149832111146,
+          301.73983938705476
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 1.6000000000000003
+    },
+    {
+      "label": "车",
+      "score": null,
+      "points": [
+        [
+          1614.227009127559,
+          385.2434346387194
+        ],
+        [
+          1621.2655696324387,
+          399.0725143638108
+        ],
+        [
+          1601.2902322517514,
+          409.23932398197024
+        ],
+        [
+          1594.2516717468718,
+          395.41024425687874
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 1.0999999999999999
+    },
+    {
+      "label": "车",
+      "score": null,
+      "points": [
+        [
+          1460.6413807402407,
+          553.8251828985706
+        ],
+        [
+          1474.1396884109727,
+          559.5321758461973
+        ],
+        [
+          1466.082757190794,
+          578.5886102048779
+        ],
+        [
+          1452.584449520062,
+          572.8816172572509
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0.4
+    },
+    {
+      "label": "车",
+      "score": null,
+      "points": [
+        [
+          1580.358949622342,
+          799.0852905199404
+        ],
+        [
+          1572.8765166364299,
+          782.7358761715391
+        ],
+        [
+          1592.3809523809523,
+          773.8095238095237
+        ],
+        [
+          1599.8633853668646,
+          790.1589381579249
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 4.283185307179593
+    },
+    {
+      "label": "车",
+      "score": null,
+      "points": [
+        [
+          2290.9523809523807,
+          661.9047619047619
+        ],
+        [
+          2307.497051486897,
+          660.2447578119194
+        ],
+        [
+          2309.7459366634444,
+          682.6585967153063
+        ],
+        [
+          2293.201266128928,
+          684.3186008081489
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 6.183185307179587
+    },
+    {
+      "label": "车",
+      "score": null,
+      "points": [
+        [
+          2211.516689090108,
+          2023.1880157744415
+        ],
+        [
+          2212.8571428571427,
+          2004.2857142857142
+        ],
+        [
+          2238.6107606801716,
+          2006.1120280838645
+        ],
+        [
+          2237.2703069131367,
+          2025.0143295725916
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 4.783185307179592
+    },
+    {
+      "label": "终点线",
+      "score": null,
+      "points": [
+        [
+          2062.9310344827586,
+          1938.6206896551726
+        ],
+        [
+          2075.862068965517,
+          1938.6206896551726
+        ],
+        [
+          2075.862068965517,
+          2067.068965517242
+        ],
+        [
+          2062.9310344827586,
+          2067.068965517242
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    },
+    {
+      "label": "蓝房顶",
+      "score": null,
+      "points": [
+        [
+          2098.2758620689656,
+          1890.344827586207
+        ],
+        [
+          2140.5172413793107,
+          1890.344827586207
+        ],
+        [
+          2140.5172413793107,
+          1930.0
+        ],
+        [
+          2098.2758620689656,
+          1930.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    }
+  ],
+  "imagePath": "keyframe_0013.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

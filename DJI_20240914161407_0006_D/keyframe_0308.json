@@ -1,0 +1,70 @@
+{
+  "version": "2.4.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "蓝房顶",
+      "score": 0.9872178435325623,
+      "points": [
+        [
+          2138.71530426549,
+          1935.3763945033552
+        ],
+        [
+          2142.234999225476,
+          1895.2551484873875
+        ],
+        [
+          2099.0277682442756,
+          1891.464730984926
+        ],
+        [
+          2095.50807328429,
+          1931.5859770008938
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 4.799891430135588
+    },
+    {
+      "label": "车",
+      "score": 0.47846719622612,
+      "points": [
+        [
+          2036.2337484990217,
+          1712.3191583774872
+        ],
+        [
+          2040.6246617002694,
+          1693.5744373490295
+        ],
+        [
+          2020.3713235224627,
+          1688.8301336147003
+        ],
+        [
+          2015.980410321215,
+          1707.574854643158
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 4.9424881666859095
+    }
+  ],
+  "imagePath": "keyframe_0308.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

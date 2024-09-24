@@ -1,0 +1,70 @@
+{
+  "version": "2.4.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "蓝房顶",
+      "score": 0.9836030006408691,
+      "points": [
+        [
+          2140.439019545496,
+          1928.4763569984734
+        ],
+        [
+          2144.491218232898,
+          1888.9143575613161
+        ],
+        [
+          2102.1265932474726,
+          1884.5750956382453
+        ],
+        [
+          2098.0743945600707,
+          1924.1370950754026
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 4.814459565277924
+    },
+    {
+      "label": "终点线",
+      "score": 0.2694051265716553,
+      "points": [
+        [
+          2076.858891113711,
+          2061.254263754299
+        ],
+        [
+          2078.8719097880526,
+          1927.3551385087194
+        ],
+        [
+          2064.859553710508,
+          1927.1444789214825
+        ],
+        [
+          2062.846535036166,
+          2061.043604167062
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 4.727421692754847
+    }
+  ],
+  "imagePath": "keyframe_0075.jpg",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}
